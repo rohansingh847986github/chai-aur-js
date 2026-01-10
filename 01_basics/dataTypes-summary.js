@@ -22,5 +22,6 @@ const obj = {
 
 const myFunction = function(){
     console.log('Hello World');
-    
 }
+console.log(myFunction);
+

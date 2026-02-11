@@ -69,7 +69,7 @@ const course = {
 // const {teacher: t} = course
 // console.log(t);
 
-// API Concept
+
 
 
 

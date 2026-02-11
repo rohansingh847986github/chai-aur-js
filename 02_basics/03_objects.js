@@ -8,7 +8,7 @@ const mySym = Symbol('key1')
 const JsUser = {
     name: 'Rohan',
     "sir name": "Singh",
-    [mySym]: 'key1', //define a symbol and take as a key in a object and print it
+    [mySym]: 'key1', //define a symbol and takes as a key in a object and print it
     age: 27,
     location: "Kolkata",
     email:'rohan123@gmail.com',

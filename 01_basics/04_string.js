@@ -6,7 +6,6 @@ const repoCount = 50
 // console.log(`Hello myname is ${name} and my repo count is ${repoCount}`);
 // Another way to decalre string
 // const gameName = new String('Rohan Singh')
-const gameName1 = 'Rohan-singh-123-hello'
 // console.log(gameName);
 // console.log(gameName[0]);
 // console.log(gameName.__proto__)
@@ -26,6 +25,8 @@ const url = 'https://rohan.com%20singh'
 console.log(url);
 console.log(url.replace('%20' , '-'));
 console.log(url.includes('rohan'));
+
+const gameName1 = 'Rohan-singh-123-hello'
 console.log(gameName1.split('-'));
 
 
